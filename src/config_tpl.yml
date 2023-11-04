@@ -1,0 +1,3 @@
+code_doc:
+    examples_path: './examples/*.php'
+    output_file: './README.md'
